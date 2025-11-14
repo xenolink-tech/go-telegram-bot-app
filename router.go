@@ -32,7 +32,7 @@ func (h HandlerAction) String() string {
 }
 
 const (
-	CommandDelimiter = "@"
+	CommandDelimiter = "|"
 )
 
 type HandlerInfo struct {
